@@ -1,0 +1,81 @@
+.f-page{
+box-sizing: border-box;
+padding: 0px;
+margin: 0px;
+}
+.main-header{
+    width:100%;
+    height:100px;
+    background-color:antiquewhite;
+}
+.header-text{
+    font-size:30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: blue;
+}
+.left-header{
+    width:24%;
+    height:100%;
+    background-color:antiquewhite;;
+    float: left;
+}
+.s-btn{
+    width:23%;
+    height:50px;
+    background-color: aqua;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.s-btn:hover{
+    background-color: red;
+}
+.middle-header{
+    width:50%;
+    height:100%;
+    background-color: antiquewhite;
+    float: left;
+}
+.right-header{
+width: 24%;
+height:100%;
+background-color:antiquewhite;
+float:left;
+}
+.sign-in{
+    width:23%;
+    height:50px;
+    background-color:aqua;
+    margin-top:20px;
+    font-size:20px;
+}
+.sign-in:hover{
+    background-color: red;
+}
+.sign-up{
+    width:24%;
+    height:50px;
+    background-color:aqua;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size:20px;
+}
+.sign-up:hover{
+    background-color: red;
+}
+.middle{
+    width:100%;
+    height: 400px;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+} 
+  
+.footer{
+width:100%;
+height:70px;
+}
+.footer-text{
+    text-align: center;
+    color:rgb(255, 189, 127)
+}

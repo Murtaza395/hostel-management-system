@@ -1,0 +1,31 @@
+.full-page{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(224, 146, 44);
+}
+.header-text{
+    font: bold;
+    font-size: large;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    text-align: center;
+}
+.hostel-booking{
+   margin-left: 600px;
+}
+label{
+    font-size: large;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.booking{
+    width:30%;
+    height:50px;
+    background-color: pink;
+}
+.booking:hover{
+    background-color: red;
+}

@@ -1,0 +1,18 @@
+.login-page{
+    margin-top:200px;
+    margin-left: 500px;
+}
+label{
+    font-size: large;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.signin{
+    width:20%;
+    height:40px;
+    background-color: aqua;
+}
+.signin:hover{
+    background-color: red;
+}
